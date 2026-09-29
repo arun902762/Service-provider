@@ -1,0 +1,18 @@
+/* src/index.css */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8fafc;
+  color: #1e293b;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+input, select, textarea, button {
+  font-family: inherit;
+  color: #1e293b;
+  background-color: #ffffff;
+}
